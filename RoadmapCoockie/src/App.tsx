@@ -4,7 +4,7 @@ import CookiesLogo from './assets/Cookies-Logo.jpg';
 function App() {
   return (
     <>
-      <div className='borderlines'>
+      <div className='borderlines bg-black'>
         <h1>coockies</h1>
         <div className='cookiesContainer'>
           <div>
